@@ -1,0 +1,1 @@
+P001,FRGR,GRG,4,4,4,4,Proveedor1,Almacen1
